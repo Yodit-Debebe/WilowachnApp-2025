@@ -1,7 +1,7 @@
 # Wilowachin-App
 | Group Members | ID | Section |
 |----------|----------|----------|
-| Edlawit Manaye    | UGR/7623/15  | 4   |
+| Edilawit Manaye    | UGR/7623/15  | 4   |
 | Elshaday Girma    | UGR/1536/15   | 2   |
 | Kalkidan Adeba    | UGR/6457/15   | 4   |
 | Meron Bihon    | UGR/8000/15   | 1   |
